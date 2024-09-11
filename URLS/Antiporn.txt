@@ -1,3 +1,28 @@
+!
+! Title: AdGuard DNS filter
+! Description: List composed of several filters (AdGuard Base filter, Social Media filter, Tracking Protection filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking
+! Version: 1.0.15.4
+! Homepage: https://github.com/AdguardTeam/AdguardSDNSFilter
+! Last modified: 2024-09-11T18:06:48.920Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.26
+!
+!
+! Source name: AdGuard DNS filter
+! Source: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+!
+!
+! Title: ministerio de las Tecnologías de la Información y las comunicaciones, 
+! a través de sus políticas de Internet Sano 
+!(Ley 679 de 2001 y del Decreto 1524 de 2004);
+! Last modified: 2024-09-11 03:00 PM Hora Colombiana
+!
+! Compiled by @adguard/hostlist-compiler v1.0.24
+!
+!
+! Source name: AdGuard Antiporno
+!
+!
 ||bery.igopotash.site^
 ||thisways.do.am^
 ||forfriends.do.am^
